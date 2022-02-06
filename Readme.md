@@ -1,5 +1,6 @@
 
-Tämä harkka on tehty käyttäen Node versiota v14.17.6, joka
-silloin kurssin aluksi asennettiin.
+Final exercise for the react course. 
+Small app that fetches Kanye West quotes from API
+and filters them according to the word count.
 
 
